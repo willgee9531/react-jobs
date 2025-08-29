@@ -1,3 +1,5 @@
+// is my app using a browser router?
+
 import {
   Route,
   createBrowserRouter,
