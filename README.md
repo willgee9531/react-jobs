@@ -2,13 +2,13 @@
 
 This project is a job listing application built with React and Vite. It allows users to browse and apply for jobs, and includes features such as user authentication, job filtering, and a responsive design.
 
-![Home Page](.\src\assets\images\home_page.jpg)
+![Home Page](src/assets/images/home_page.jpg)
 _screenshot of home page_
 
-![Jobs Page](.\src\assets\images\jobs_page.jpg)
+![Jobs Page](src/assets/images/jobs_page.jpg)
 _screenshot of jobs page_
 
-![Add Job Page](.\src\assets\images\add_job_page.jpg)
+![Add Job Page](src/assets/images/add_job_page.jpg)
 _screenshot of add job page_
 
 ## Features
