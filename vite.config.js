@@ -14,7 +14,7 @@ export default defineConfig({
       },
     },
   },
-  base: '/react-jobs/',
+  base: '/jobs/',
 });
 
 // Edit this file to use github pages
