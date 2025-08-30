@@ -8,13 +8,13 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/api': {
-        target: 'http://localhost:8000',
+        target: 'https://willgee9531.github.io/json-server/jobs.json',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, '')
       },
     },
   },
-  base: '/react-jobs/',
+  base: '/',
 });
 
 // Edit this file to use github pages
